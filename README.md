@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @klpack 
 - 👀 I’m interested in ... UX and using coding languages to make strong evidence based decisions
-- 🌱 I’m currently learning ... SQL and UX Design 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... SQL and UX Design, R
 - 📫 How to reach me ... klpack@coastal.edu
 
 <!---
